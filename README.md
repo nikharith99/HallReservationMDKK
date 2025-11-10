@@ -94,10 +94,4 @@ The Hall Booking System is a web-based application designed to streamline the pr
 - Web server (Apache/Nginx)
 - SSL certificate (for production)
 
-### Step-by-Step Installation
 
-1. **Clone the repository**
-    ```bash
-    git clone https://github.com/your-organization/hall-booking-system.git
-    cd hall-booking-system
-    ```
